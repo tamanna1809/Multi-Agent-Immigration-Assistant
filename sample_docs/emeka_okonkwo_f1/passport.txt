@@ -1,0 +1,18 @@
+PASSPORT
+FEDERAL REPUBLIC OF NIGERIA
+
+Type: P
+Country Code: NGA
+Passport Number: A12345678
+Surname: OKONKWO
+Given Names: EMEKA CHUKWUEMEKA
+Nationality: NIGERIAN
+Date of Birth: 08 JUN 2003
+Sex: M
+Place of Birth: Lagos, Lagos State, Nigeria
+Date of Issue: 15 MAR 2023
+Date of Expiry: 14 MAR 2033
+Issuing Authority: Nigeria Immigration Service, Lagos
+
+Address: 14B Adeola Odeku Street, Victoria Island, Lagos, Nigeria
+Emergency Contact: Dr. Charles Okonkwo (Father) +234-803-456-7890

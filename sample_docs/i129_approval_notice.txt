@@ -1,0 +1,57 @@
+DEPARTMENT OF HOMELAND SECURITY
+U.S. Citizenship and Immigration Services
+California Service Center
+P.O. Box 30111, Laguna Niguel, CA 92607-0111
+
+FORM I-797 — NOTICE OF ACTION
+(H-1B PETITION APPROVAL NOTICE)
+
+Date of Notice           : December 22, 2025
+USCIS Receipt Number     : WAC-26-001-54321
+Case Type                : I-129 Petition for Nonimmigrant Worker
+Receipt Date             : November 28, 2025
+Priority Date            : November 28, 2025
+Petitioner               : TechCorp Inc.
+Beneficiary              : SHARMA, ARJUN KUMAR
+
+THIS NOTICE CONFIRMS THAT THE ABOVE PETITION HAS BEEN APPROVED.
+
+APPROVAL DETAILS:
+Classification           : H-1B — Specialty Occupation Worker
+Valid From               : January 15, 2026
+Valid Until              : January 14, 2029
+Authorized Stay          : Three (3) years
+
+BENEFICIARY INFORMATION:
+Name                     : Arjun Kumar Sharma
+Date of Birth            : March 15, 1995
+Country of Citizenship   : India
+Passport Number          : P7842301
+
+EMPLOYER/PETITIONER:
+TechCorp Inc.
+350 Mission Street, Suite 900
+San Francisco, CA 94105
+
+POSITION APPROVED:
+Job Title                : Software Engineer II
+SOC Code                 : 15-1132
+Work Location            : San Francisco, CA 94105
+Annual Salary            : USD $95,000
+
+IMPORTANT INFORMATION:
+1. This approval does not guarantee visa issuance. The beneficiary must apply
+   for an H-1B visa at a U.S. Embassy or Consulate abroad.
+2. The beneficiary should bring this notice to the visa interview.
+3. This notice is valid only for the petitioner and position listed above.
+4. If the beneficiary changes employers, a new H-1B petition must be filed.
+
+PROCESSING NOTES:
+This petition was processed under Premium Processing Service (Form I-907).
+Processing time: 12 business days from receipt.
+
+Officer Name             : [USCIS Officer — California Service Center]
+USCIS Seal               : [OFFICIAL SEAL OF USCIS]
+
+To verify this notice, visit: www.uscis.gov/e-verify
+Receipt Number for Verification: WAC-26-001-54321

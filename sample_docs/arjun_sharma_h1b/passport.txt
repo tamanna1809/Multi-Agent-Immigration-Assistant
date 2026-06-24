@@ -1,0 +1,22 @@
+PASSPORT
+REPUBLIC OF INDIA
+
+Type: P
+Country Code: IND
+Passport Number: P7842301
+Surname: SHARMA
+Given Names: ARJUN KUMAR
+Nationality: INDIAN
+Date of Birth: 15 MAR 1995
+Sex: M
+Place of Birth: Mumbai, Maharashtra, India
+Date of Issue: 10 JAN 2022
+Date of Expiry: 09 JAN 2032
+Issuing Authority: Passport Seva Kendra, Mumbai
+
+Address: 24, Linking Road, Bandra West, Mumbai - 400050, India
+Emergency Contact: Priya Sharma (Spouse) +91-9876543210
+
+Machine Readable Zone:
+P<INDSHARMA<<ARJUN<KUMAR<<<<<<<<<<<<<<<<<<<<<
+P784230118IND9503157M3201099<<<<<<<<<<<<<<<4

@@ -1,0 +1,45 @@
+U.S. DEPARTMENT OF STATE
+Nonimmigrant Visa Application Fee Receipt
+Machine Readable Visa (MRV) Fee
+
+RECEIPT DETAILS:
+Receipt Number          : MRV-2025-MUM-0089234
+Transaction Date        : December 27, 2025
+Transaction Time        : 11:45 AM IST
+Payment Method          : Online Bank Transfer (HDFC Bank)
+Bank Reference Number   : HDFC20251227089234
+
+APPLICANT INFORMATION:
+Full Name               : ARJUN KUMAR SHARMA
+Date of Birth           : 15 MAR 1995
+Nationality             : Indian
+Passport Number         : P7842301
+Email                   : arjun.sharma@email.com
+Phone                   : +91-98765-43210
+
+VISA FEE INFORMATION:
+Visa Category           : H-1B (Specialty Occupation Worker)
+Fee Amount              : USD $185.00
+Equivalent Amount Paid  : INR 15,429.00
+Exchange Rate Used      : 1 USD = 83.40 INR
+Fee Type                : MRV (Machine Readable Visa) Application Fee
+
+EMBASSY/CONSULATE:
+Processing Location     : U.S. Consulate General, Mumbai
+Address                 : C-49, G-Block, Bandra Kurla Complex,
+                          Bandra East, Mumbai - 400051
+Phone                   : +91-22-2672-4000
+
+PAYMENT STATUS         : CONFIRMED AND PROCESSED
+
+IMPORTANT NOTES:
+1. This receipt is valid for one (1) year from the date of payment.
+2. MRV fees are non-refundable regardless of visa outcome.
+3. Present this receipt at the time of your visa interview.
+4. Receipt valid for use at any U.S. Embassy or Consulate in India.
+5. Do not share this receipt number with anyone — it is unique to you.
+
+Issued by: U.S. Embassy New Delhi — Fee Collection Unit
+Verified by: Citibank N.A. (U.S. Government Fee Collection Agent)
+
+For questions: https://ais.usvisa-info.com/en-in/niv

@@ -1,0 +1,18 @@
+PASSPORT
+ARAB REPUBLIC OF EGYPT
+
+Type: P
+Country Code: EGY
+Passport Number: A09876543
+Surname: HASSAN
+Given Names: AHMED MOHAMED
+Nationality: EGYPTIAN
+Date of Birth: 22 SEP 1990
+Sex: M
+Place of Birth: Cairo, Egypt
+Date of Issue: 01 JUN 2022
+Date of Expiry: 31 MAY 2032
+Issuing Authority: Ministry of Interior, Cairo
+
+Address: 45 Tahrir Square, Apartment 8, Dokki, Cairo, Egypt
+Emergency Contact: Mohamed Hassan (Father) +20-100-234-5678

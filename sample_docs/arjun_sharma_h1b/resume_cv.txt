@@ -1,0 +1,90 @@
+ARJUN KUMAR SHARMA
+Software Engineer
+Mumbai, Maharashtra, India
+arjun.sharma@email.com | +91-98765-43210
+LinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma
+
+---------------------------------------------------------------
+PROFESSIONAL SUMMARY
+---------------------------------------------------------------
+Results-driven Software Engineer with 8+ years of experience designing,
+developing, and deploying large-scale distributed systems. Expertise in
+cloud infrastructure (AWS), microservices architecture, and backend
+engineering. Proven track record of leading engineering teams and
+delivering high-impact products for global clients.
+
+---------------------------------------------------------------
+WORK EXPERIENCE
+---------------------------------------------------------------
+
+SENIOR SOFTWARE ENGINEER
+Infosys Limited, Bangalore, India
+August 2017 – Present (8 years 3 months)
+
+- Led a team of 6 engineers building a real-time data processing platform
+  serving 12 million daily active users across US and UK markets
+- Architected and deployed microservices on AWS using ECS, Lambda, and RDS
+  reducing infrastructure costs by 34%
+- Designed distributed caching layer using Redis reducing API response
+  time from 850ms to 120ms
+- Implemented CI/CD pipelines using Jenkins, Docker, and Kubernetes
+  cutting deployment time from 4 hours to 18 minutes
+- Mentored 3 junior engineers, conducted 200+ technical interviews
+- Received "Star Performer" award in 2021, 2023
+- Tech Stack: Java, Python, Go, AWS, Kubernetes, Docker, PostgreSQL,
+  Redis, Kafka, Elasticsearch, Terraform
+
+Key Projects:
+  > FinTrack Platform (2023-Present)
+    Built real-time financial analytics platform for a US bank client.
+    Handles 5M transactions/day. Reduced fraud detection latency by 60%.
+
+  > CloudMigrate Tool (2020-2022)
+    Led migration of 40+ legacy Java monoliths to microservices on AWS.
+    Saved client USD $2.1M annually in infrastructure costs.
+
+  > SmartLog System (2018-2020)
+    Distributed log aggregation system processing 10TB/day.
+    Stack: Kafka, Spark, Elasticsearch, Kibana.
+
+---------------------------------------------------------------
+EDUCATION
+---------------------------------------------------------------
+
+BACHELOR OF TECHNOLOGY — Computer Science and Engineering
+Indian Institute of Technology Bombay (IIT Bombay)
+July 2013 – May 2017
+CGPA: 8.6 / 10.0 | First Class with Distinction | Rank: 12/180
+
+---------------------------------------------------------------
+TECHNICAL SKILLS
+---------------------------------------------------------------
+Languages     : Java, Python, Go, JavaScript, SQL, Bash
+Cloud          : AWS (EC2, S3, Lambda, RDS, ECS, CloudFormation, IAM)
+Frameworks     : Spring Boot, FastAPI, Node.js, React
+Databases      : PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+DevOps         : Docker, Kubernetes, Jenkins, GitHub Actions, Terraform
+Data           : Apache Kafka, Apache Spark, Elasticsearch
+Tools          : Git, JIRA, Confluence, Postman, Grafana
+
+---------------------------------------------------------------
+CERTIFICATIONS
+---------------------------------------------------------------
+- AWS Certified Solutions Architect – Professional (2023)
+- AWS Certified Developer – Associate (2021)
+- Google Cloud Professional Data Engineer (2022)
+- Oracle Certified Professional Java SE 11 (2020)
+
+---------------------------------------------------------------
+ACHIEVEMENTS
+---------------------------------------------------------------
+- Infosys Star Performer Award (2021, 2023)
+- Best B.Tech Project — IIT Bombay CS Department (2017)
+- IIT Bombay Merit Scholarship (2014, 2015, 2016)
+- Finalist — HackerEarth National Coding Championship (2019)
+- Open source contributor — 1,200+ GitHub stars across 3 projects
+
+---------------------------------------------------------------
+REFERENCES
+---------------------------------------------------------------
+Available upon request.

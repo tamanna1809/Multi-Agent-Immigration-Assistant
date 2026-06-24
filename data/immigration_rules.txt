@@ -1,0 +1,212 @@
+=== UNITED STATES VISA TYPES ===
+
+H-1B VISA (Specialty Occupation Worker):
+Purpose: Employment in specialty occupation requiring a bachelor's degree or higher equivalent
+Eligibility Requirements:
+- Job offer from a US employer willing to act as sponsor
+- Position must qualify as a specialty occupation (IT, engineering, finance, accounting, architecture, law, medicine, etc.)
+- Minimum bachelor's degree or equivalent in the specific specialty
+- Employer must file Form I-129 petition with USCIS
+- Employer must pay the prevailing wage for the occupation
+Annual Cap: 65,000 per fiscal year (additional 20,000 for US master's degree holders)
+Lottery: Applications in April for October 1 start. If oversubscribed, random lottery selection
+Duration: Initial 3 years, extendable to 6 years. Extensions beyond 6 years possible if green card process initiated
+Processing Time: 3-6 months standard; 15 business days with Premium Processing ($2,805 fee)
+Key Risk Factors:
+- Cap lottery — only ~26% of petitions are selected
+- Specialty occupation definition scrutinized by USCIS
+- Wage level requirements (Level I vs Level II wages)
+- Site visits by USCIS officers
+- H-1B transfer requires new petition if changing employers
+Required Documents: Valid passport, Form I-129 (employer files), educational certificates and transcripts, resume/CV, employment offer letter, DS-160 confirmation, fee receipt, 2x2 photo (white background), previous US visas if applicable
+
+F-1 VISA (Student):
+Purpose: Full-time academic study at an accredited US institution
+Eligibility Requirements:
+- Acceptance at a SEVP-certified (Student and Exchange Visitor Program) school
+- Enrollment in a full course of study
+- Sufficient financial support to cover tuition and living expenses
+- Strong ties to home country (intent to return after studies)
+- Proficiency in English (TOEFL/IELTS)
+Processing Time: 3-5 weeks
+Duration: Duration of Status (D/S) — as long as enrolled and maintaining status
+Key Risk Factors:
+- Must demonstrate non-immigrant intent (ties to home country)
+- Financial sufficiency proof critical
+- Nigerian, Indian, Chinese students face higher scrutiny
+- Attending low-ranked or for-profit schools raises flags
+Required Documents: Valid passport, Form I-20 from school, SEVIS fee receipt (Form I-901), DS-160 confirmation, visa fee receipt, financial evidence (bank statements 3 months minimum $10,000+ for first year), acceptance letter, academic transcripts, English proficiency scores, evidence of ties to home country
+
+O-1 VISA (Extraordinary Ability):
+Purpose: Individuals with extraordinary ability in sciences, arts, education, business, or athletics
+Eligibility: Must demonstrate sustained national or international acclaim via:
+- Major awards (Oscars, Nobel, Olympic medals)
+- Published articles in major media or professional journals
+- Membership in associations requiring outstanding achievement
+- High salary relative to peers
+- Participation as judge of others' work
+- Critical/essential role in distinguished organizations
+Processing Time: 2-3 months standard; premium processing available
+Duration: Up to 3 years, extendable in 1-year increments
+Risk Factors: High evidence bar, subjective USCIS evaluation
+
+B-1/B-2 VISA (Business/Tourism):
+Purpose: Temporary business visits (B-1) or tourism/pleasure (B-2)
+Duration: Up to 6 months
+Requirements: Valid passport, demonstration of temporary visit intent, ties to home country, sufficient funds
+Risk Factors: Overstay history, prior refusals, weak ties to home country
+
+EB-5 VISA (Immigrant Investor):
+Purpose: Permanent residence through investment
+Minimum Investment: $1,050,000 standard; $800,000 in Targeted Employment Area
+Job Creation: Must create or preserve 10 full-time jobs for US workers
+Processing Time: 2-5 years
+Risk: Investment at risk, complex requirements
+
+=== CANADA VISA TYPES ===
+
+Express Entry — Federal Skilled Worker Program:
+Purpose: Economic immigration for skilled foreign workers seeking permanent residence
+Eligibility: Comprehensive Ranking System (CRS) score based on:
+- Age (maximum points at 20-29 years)
+- Education (Canadian or foreign equivalent assessed by ECA)
+- Language skills (IELTS for English, TEF for French) — CLB 7 minimum
+- Work experience (minimum 1 year skilled work in NOC 0, A, or B)
+- Adaptability factors (Canadian education, prior work, family in Canada)
+Process: Create Express Entry profile → enter pool → receive Invitation to Apply (ITA) if score above cutoff → apply for PR within 60 days of ITA
+CRS Cutoff Scores: Typically 470-520, fluctuates with draw frequency
+Processing Time: 6 months from ITA to PR
+Risk Factors:
+- CRS score may not meet cutoff for general draw
+- ECA takes 2-3 months
+- Language scores must meet minimums
+- Misrepresentation leads to permanent ban
+Required Documents: Valid passport, IELTS/CELPIP results, Educational Credential Assessment (ECA) from WES or equivalent, employment reference letters (NOC description, salary, duties, supervisor contact), police clearance certificates from every country lived in 6+ months, medical examination from designated physician, proof of funds (varies by family size — single applicant minimum CAD $13,310), photographs meeting IRCC specifications
+
+Intracompany Transfer (ICT) — Canada:
+Purpose: Transfer within a multinational company to Canada
+Requirements: Employed by company outside Canada for minimum 1 year within last 3 years, position must be managerial, executive, or specialized knowledge
+Processing Time: 2-4 weeks at port of entry
+
+Canadian Study Permit:
+Purpose: Full-time study at a Designated Learning Institution (DLI)
+Requirements: Acceptance letter from DLI, proof of financial support (CAD $10,000 per year minimum plus tuition), intent to leave after studies
+Processing Time: 4-8 weeks (some countries have Student Direct Stream — 20 days)
+Student Direct Stream Countries: Antigua and Barbuda, Brazil, China, Colombia, Costa Rica, India, Morocco, Pakistan, Peru, Philippines, Senegal, Trinidad and Tobago, Vietnam
+
+=== UNITED KINGDOM VISA TYPES ===
+
+Skilled Worker Visa (UK):
+Purpose: Work in the UK with an approved employer
+Requirements:
+- Job offer from UK Visas and Immigration (UKVI) licensed sponsor
+- Certificate of Sponsorship (CoS) from employer
+- Job at appropriate skill level (RQF Level 3 or above)
+- Minimum salary: £26,200 per year OR the going rate for the occupation (whichever is higher)
+- English language requirement: B1 level (CEFR)
+Points Required: 70 points (mandatory: job offer 20pts + salary threshold 20pts + English 10pts + remaining 20pts from tradeable characteristics)
+Processing Time: 3 weeks from outside UK
+Duration: Up to 5 years, extendable
+Settlement: Eligible for Indefinite Leave to Remain after 5 years
+Risk Factors: Sponsor license status, salary below threshold, English test validity
+
+UK Student Visa:
+Purpose: Study at licensed student sponsor institution
+Requirements: Confirmation of Acceptance for Studies (CAS) from institution, English language B2 level, financial requirements (£1,334/month in London; £1,023/month outside London for up to 9 months, plus first-year tuition fees)
+Processing Time: 3 weeks
+ATAS: Academic Technology Approval Scheme required for certain sensitive subjects (physics, chemistry, advanced mathematics, certain engineering disciplines)
+
+=== DOCUMENT REQUIREMENTS DETAILED ===
+
+H-1B Complete Document List:
+1. Valid passport with minimum 6 months validity beyond intended stay
+2. Form I-129 Petition (filed by employer with USCIS — not filed by applicant)
+3. I-129 approval notice from USCIS
+4. Educational certificates (bachelor's degree minimum)
+5. Official academic transcripts (sealed)
+6. Resume/CV detailing work history
+7. Employment offer letter (position, salary, start date, duration)
+8. DS-160 Online Nonimmigrant Visa Application confirmation page
+9. MRV visa application fee receipt (currently $185)
+10. Passport-style photo (2x2 inches, white background, taken within 6 months)
+11. Previous US visas (if any, even if expired)
+12. Previous US immigration documents (I-20, EAD, etc. if applicable)
+13. Employer's financial documents showing ability to pay wages (optional but helpful)
+14. Specialty occupation evidence (job description, industry standards)
+
+F-1 Complete Document List:
+1. Valid passport
+2. Form I-20 from SEVP-certified school (must be signed by DSO)
+3. SEVIS fee payment receipt (Form I-901, currently $350)
+4. DS-160 confirmation page
+5. MRV visa fee receipt ($185)
+6. Photo meeting requirements
+7. Financial evidence: bank statements showing 3+ months history, scholarship letters, sponsor affidavit of support
+8. Acceptance/enrollment letter from institution
+9. Academic transcripts (all previous institutions, translated to English)
+10. English proficiency test scores (TOEFL iBT minimum 80, IELTS minimum 6.0 — varies by school)
+11. Ties to home country: property deed, family documents, employment letter, business ownership proof
+12. SAT/ACT scores if applying to undergraduate program (some consulates request)
+
+Canada Express Entry Documents:
+1. Valid passport (all passports held in last 10 years)
+2. Language test results (IELTS General Training: minimum 6 in all bands for CLB 7; or CELPIP; or TEF for French)
+3. Educational Credential Assessment from WES, ICAS, or other approved body (3 months processing)
+4. Employment reference letters (one per qualifying job, on company letterhead, signed, detailing: position, start/end dates, hours per week, salary, duties, supervisor name and contact)
+5. Police clearance certificates from every country lived in 6+ months since age 18
+6. Medical examination results from IRCC designated physician (valid 12 months)
+7. Proof of funds bank letter showing sufficient settlement funds
+8. Birth certificate
+9. Marriage certificate or common-law declaration if applicable
+10. Photos (35mm x 45mm, white background)
+
+=== RISK FACTORS AND RED FLAGS ===
+
+Critical Red Flags (High Impact on Approval):
+1. Previous visa rejection or overstay: Must be disclosed. H-1B officers cross-reference. Previous US overstay can result in 3-year or 10-year bar.
+2. Criminal record: Any conviction, including minor offenses, must be disclosed. Drug offenses particularly serious. DUI can cause UK visa refusal.
+3. Misrepresentation: Any false statement, even minor, can lead to permanent inadmissibility.
+4. Incomplete or inconsistent application: Gaps in employment/education history unexplained.
+5. No ties to home country: For non-immigrant visas, must demonstrate reasons to return.
+6. Insufficient financial evidence: Bank statements showing recent large deposits (suspicious), insufficient funds.
+7. Travel to certain countries: Travel to countries under sanctions or travel warnings can raise scrutiny.
+
+Medium Risk Factors:
+1. First-time traveler to target country
+2. Recent job change or unemployment gap
+3. Self-employment without clear documentation
+4. Applying near expiry of current status
+5. Weak English skills
+6. Low-ranked educational institutions
+7. Age extremes for certain visa types
+
+Low Risk Factors (Positive Indicators):
+1. Strong prior travel history with full compliance
+2. Previous visa approvals (same or other countries)
+3. Stable long-term employment
+4. Clear financial stability
+5. Family ties in home country (spouse, children, parents)
+6. Property ownership in home country
+7. High salary and prominent employer
+
+=== PROCESSING TIMES 2024-2025 ===
+US H-1B: 3-6 months standard, 15 business days premium processing
+US F-1: 2-5 weeks (varies heavily by country and consulate)
+US O-1: 2-3 months standard
+US B-1/B-2: 2-8 weeks (varies by consulate)
+Canada Express Entry: 6 months from ITA
+Canada Study Permit: 4-8 weeks standard, 20 days via Student Direct Stream
+UK Skilled Worker: 3 weeks from outside UK
+UK Student: 3 weeks
+
+=== COMMON REASONS FOR REJECTION ===
+1. Failure to demonstrate non-immigrant intent
+2. Insufficient financial evidence
+3. Incomplete application or missing documents
+4. Failed to disclose prior immigration violations
+5. Suspicious travel patterns
+6. Inconsistencies between application and supporting documents
+7. Criminal inadmissibility
+8. Medical inadmissibility
+9. Prior overstay or violation
+10. Security grounds

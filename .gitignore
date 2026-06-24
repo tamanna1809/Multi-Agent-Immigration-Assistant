@@ -1,0 +1,39 @@
+# Environment variables — NEVER commit API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# FAISS vector index (auto-generated on first run)
+faiss_index/
+*.faiss
+*.pkl
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS metadata
+.DS_Store
+
+# IDE folders
+.vscode/
+.idea/
+
+# LangSmith / LangChain cache
+.langchain.db
+langchain_cache/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Presentation and docs
+script.txt
+architecture_diagram.txt

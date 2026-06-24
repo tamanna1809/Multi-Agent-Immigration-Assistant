@@ -1,0 +1,81 @@
+DEPARTMENT OF HOMELAND SECURITY
+U.S. Citizenship and Immigration Services
+
+FORM I-129 — PETITION FOR NONIMMIGRANT WORKER
+OMB No. 1615-0009
+
+PART 1 — EMPLOYER INFORMATION
+Legal Business Name      : TechCorp Inc.
+Trade Name (if different): TechCorp
+Federal Employer ID (EIN): 94-1234567
+NAICS Code               : 541511 (Custom Computer Programming Services)
+Address                  : 350 Mission Street, Suite 900, San Francisco, CA 94105
+Phone                    : +1 (415) 555-0192
+Email                    : hr@techcorp.com
+IRS Tax ID               : 94-1234567
+Date Business Established: March 15, 2010
+Number of Employees      : 2,400
+Net Annual Income        : USD $180,000,000
+
+PART 2 — BASIS FOR CLASSIFICATION
+Requested Nonimmigrant Classification : H-1B (Specialty Occupation Worker)
+Petition Type                         : New Employment
+Requested Period of Employment        : January 15, 2026 – January 14, 2029 (3 years)
+USCIS Service Center                  : California Service Center
+
+PART 3 — BENEFICIARY INFORMATION
+Full Legal Name          : Arjun Kumar Sharma
+Date of Birth            : March 15, 1995
+Country of Birth         : India
+Country of Citizenship   : India
+Passport Number          : P7842301
+Passport Expiry          : January 9, 2032
+Current Nonimmigrant Status: Not applicable (applying from outside US)
+Foreign Address          : 24, Linking Road, Bandra West, Mumbai 400050, India
+
+PART 4 — SPECIALTY OCCUPATION DETAILS
+Job Title                : Software Engineer II
+SOC Code                 : 15-1132 (Software Developers, Applications)
+Rate of Pay              : USD $95,000 per year
+Work Location            : 350 Mission Street, Suite 900, San Francisco, CA 94105
+
+Specialty Occupation Justification:
+The position of Software Engineer II at TechCorp Inc. requires at minimum a
+Bachelor's degree in Computer Science, Software Engineering, or a closely
+related field. The duties include:
+- Design and development of distributed microservices using Java, Python, Go
+- Cloud infrastructure management on AWS (EC2, S3, Lambda, RDS)
+- System architecture design for high-availability, fault-tolerant systems
+- Code review, performance optimization, and technical documentation
+- Collaboration with cross-functional teams on product development
+
+These duties require theoretical and practical application of highly specialized
+knowledge in computer science, algorithms, data structures, and software systems.
+
+PART 5 — PREVAILING WAGE DETERMINATION
+Prevailing Wage          : USD $89,400 per year (DOL Wage Level II, San Francisco CA)
+Offered Wage             : USD $95,000 per year
+Wage Level               : Level II
+DOL Case Number          : P-300-24012-123456
+Determination Date       : October 1, 2025
+
+PART 6 — ATTORNEY INFORMATION
+Attorney/Representative  : Smith & Associates Immigration Law
+Bar State                : California
+Bar Number               : CA-458291
+Address                  : 100 Pine Street, Suite 800, San Francisco, CA 94111
+Phone                    : +1 (415) 555-0300
+
+CERTIFICATION
+I certify, under penalty of perjury, that the contents of this petition are true
+and correct to the best of my knowledge.
+
+Authorized Signatory     : Jennifer Walsh
+Title                    : VP of Human Resources, TechCorp Inc.
+Date                     : November 25, 2025
+Signature                : [SIGNED]
+
+USCIS Receipt Notice     : To be issued upon filing
+Filing Fee Paid          : USD $730 (Base) + $500 (ACWIA) + $500 (Fraud Prevention)
+Premium Processing       : USD $2,805 (15 business day processing requested)
+Total Fees               : USD $4,535

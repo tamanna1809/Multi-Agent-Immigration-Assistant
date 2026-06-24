@@ -1,0 +1,49 @@
+UNITED STATES DEPARTMENT OF HOMELAND SECURITY
+Student and Exchange Visitor Program (SEVP)
+
+FORM I-20 — CERTIFICATE OF ELIGIBILITY FOR NONIMMIGRANT STUDENT STATUS
+
+STUDENT INFORMATION:
+Student Name          : Emeka Chukwuemeka Okonkwo
+Date of Birth         : June 8, 2003
+Country of Birth      : Nigeria
+Country of Citizenship: Nigeria
+Admission Number      : Not yet assigned (pending visa)
+SEVIS ID              : N0012345678
+
+SCHOOL INFORMATION:
+School Name           : University of Michigan
+School Code           : MIC214F00228000
+School Address        : 515 East Jefferson Street, Ann Arbor, MI 48109
+DSO Name              : Sarah Johnson
+DSO Email             : intl-students@umich.edu
+DSO Phone             : +1 (734) 764-9310
+
+PROGRAM INFORMATION:
+Program Level         : Bachelor of Science (Undergraduate)
+Field of Study        : Computer Science (CIP: 11.0101)
+Program Start Date    : August 25, 2025 (Orientation)
+Program End Date      : May 15, 2029
+English Proficiency   : Sufficient — TOEFL iBT Score: 105/120
+
+FINANCIAL INFORMATION:
+Estimated Tuition     : USD $57,273
+Estimated Living Exp. : USD $18,000
+Total First Year Cost : USD $75,273
+
+Funding Sources:
+Personal/Family Funds : USD $60,273
+University Scholarship: USD $15,000
+Total Available Funds : USD $75,273
+
+REMARKS:
+Student is authorized for on-campus employment up to 20 hours/week during term.
+OPT eligibility begins after first academic year completion.
+
+Designated School Official (DSO):
+Signature             : [SIGNED]
+Name                  : Sarah Johnson
+Title                 : International Student Advisor
+Date Issued           : April 10, 2025
+
+THIS DOCUMENT MUST BE KEPT VALID THROUGHOUT THE STUDENT'S PROGRAM.
